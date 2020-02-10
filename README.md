@@ -1,0 +1,1 @@
+Repositório que guarda o código que criei durante minhas aulas de Desenvolvimento de Jogos para Web 3 do curso de programação de jogos digitais na Etec Guaracy Silveira extensão Godofredo Furtado durante o segundo semestre de 2016
